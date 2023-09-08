@@ -8,7 +8,7 @@ import Card from "@/components/Card/CardEvent";
 const page = () => {
   return (
     <main>
-      <div className={css.container}>
+      <div className="cardContainer">
         <Card />
         <Card />
         <Card />

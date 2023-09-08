@@ -1,6 +1,6 @@
 .container {
     width: 100%;
-    background: white;
+    background: #fffdd0;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
