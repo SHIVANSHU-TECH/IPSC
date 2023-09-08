@@ -1,7 +1,7 @@
-import Navbar from "@/components/Navbar";
+import Navbar from "@/components/navbar/Navbar";
 import React from "react";
 import "@/app/globals.css";
-import Card from "@/components/Card";
+import Card from "@/components/Card/CardEvent";
 
 const page = () => {
   return (
